@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0c1512">
+  <meta name="description" content="Find a little peace. Listen to the Quran, read its meaning, and build your own sanctuary of sacred audio with Hidayah FM.">
+  <title>Hidayah FM · A little peace, every day</title>
+  <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/app.css">
+  <script type="module" src="/js/app.js"></script>
+</head>
+<body class="auth-locked">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <aside class="sidebar" id="sidebar" aria-label="Main navigation">
+    <a href="#/home" class="brand"><img src="/assets/logo.svg" alt="" width="40" height="40"><span>Hidayah<span class="brand-fm"> FM</span><small>YOUR DAILY SANCTUARY</small></span></a>
+    <p class="nav-heading">DISCOVER</p>
+    <nav id="main-nav"></nav>
+    <div class="nav-heading row-between"><span>YOUR COLLECTION</span><button class="icon-button small" data-action="create-playlist" aria-label="Create playlist" data-icon="plus"></button></div>
+    <a href="#/library?tab=liked" class="nav-link"><span class="liked-icon" data-icon="heart"></span>Liked recitations</a>
+    <nav id="playlist-nav" class="playlist-nav" aria-label="Your playlists"></nav>
+    <div class="sidebar-bottom"><div class="quiet-card"><span data-icon="moon"></span><p>A little peace,<br><em>every day.</em></p><small>Make room for what matters.</small></div><a href="#/account" class="nav-link"><span data-icon="settings"></span>Settings & account</a><a href="#/about" class="about-link">About Hidayah FM <span>↗</span></a></div>
+  </aside>
+  <button id="menu-scrim" class="menu-scrim" data-action="menu" aria-label="Close navigation" hidden></button>
+  <div class="app-body">
+    <header class="topbar"><button class="icon-button mobile-menu" data-action="menu" aria-label="Open navigation" data-icon="menu"></button><form id="global-search" role="search"><span data-icon="search"></span><input name="q" aria-label="Search everything" placeholder="Search surahs, reciters, nasheeds…" autocomplete="off"><kbd>Ctrl K</kbd></form><div class="topbar-right"><span id="hijri-date" class="date-label"></span><a href="#/account" id="account-link" class="account-chip">Sign in</a></div></header>
+    <main id="main" tabindex="-1"><div class="loading-state" role="status">Opening Hidayah FM…</div></main>
+    <div class="app-footer">Made for moments of reflection.<span><a href="#/about">About & sources</a><a href="#/privacy">Privacy</a></span></div>
+  </div>
+  <footer class="player" aria-label="Audio player">
+    <button id="now-art" class="now-art" data-action="now" aria-label="Open now playing"><span data-icon="book"></span></button>
+    <div class="now-text"><button id="now-title" class="text-button" data-action="now">Your next quiet moment</button><span id="now-subtitle">Choose a recitation to begin</span></div>
+    <button id="player-like" class="icon-button" data-action="like-current" aria-label="Like current recitation" data-icon="heart" disabled></button>
+    <div class="player-center"><div class="player-controls"><button id="shuffle" class="icon-button secondary-control" data-action="shuffle" aria-label="Shuffle" aria-pressed="false" data-icon="shuffle"></button><button class="icon-button" data-action="previous" aria-label="Previous recitation" data-icon="previous"></button><button id="play-toggle" class="play-button" data-action="toggle-play" aria-label="Play" data-icon="play"></button><button class="icon-button" data-action="next" aria-label="Next recitation" data-icon="next"></button><button id="repeat" class="icon-button secondary-control" data-action="repeat" aria-label="Repeat: off" aria-pressed="false" data-icon="repeat"></button></div><div class="seek-row"><time id="elapsed">0:00</time><input id="seek" type="range" min="0" max="1000" value="0" aria-label="Playback position"><time id="duration">0:00</time></div></div>
+    <div class="player-tools"><button id="sleep-button" class="icon-button" data-action="sleep" aria-label="Sleep timer" data-icon="moon"></button><button class="icon-button" data-action="queue" aria-label="Open queue" data-icon="queue"></button><button id="mute" class="icon-button volume-button" data-action="mute" aria-label="Mute" data-icon="volume"></button><input id="volume" type="range" min="0" max="1" step="0.01" value="0.8" aria-label="Volume"></div>
+  </footer>
+  <nav class="mobile-nav" aria-label="Mobile navigation"></nav>
+  <aside id="queue-panel" class="queue-panel" aria-label="Playback queue" hidden></aside>
+  <dialog id="modal"><div id="modal-content"></div></dialog>
+  <div id="toasts" aria-live="polite" aria-atomic="false"></div>
+  <noscript><p class="noscript">Please enable JavaScript to use Hidayah FM.</p></noscript>
+</body>
+</html>

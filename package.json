@@ -1,0 +1,52 @@
+{
+  "name": "hidayah-fm",
+  "version": "3.0.0",
+  "description": "Hidayah FM — static web app with Firebase accounts and private libraries",
+  "main": "scripts/serve-static.cjs",
+  "scripts": {
+    "start": "node scripts/serve-static.cjs",
+    "dev": "node --watch scripts/serve-static.cjs",
+    "seed": "node server/seed.js",
+    "launch": "node scripts/launch.cjs",
+    "test": "node --test tests/static-catalogue.test.cjs tests/static-hosting.test.cjs tests/static-migration.test.cjs",
+    "test:e2e": "firebase emulators:exec --project demo-hidayah-fm --only auth,database \"npm run test:browser\"",
+    "check": "node scripts/check.cjs",
+    "backup": "node scripts/backup.cjs",
+    "media": "node scripts/media.cjs",
+    "reset-password": "node scripts/reset-password.cjs",
+    "test:api": "npm run test:legacy-api",
+    "test:browser": "playwright test",
+    "package": "node scripts/package.cjs",
+    "migrate": "node scripts/migrate.cjs",
+    "test:firebase": "firebase emulators:exec --project demo-hidayah-fm --only auth,database \"npm run test:rules\"",
+    "test:rules": "node --test tests/database.rules.test.cjs",
+    "test:legacy-api": "node --test tests/api.test.cjs tests/password-reset.test.cjs tests/catalogue.test.cjs",
+    "data:check": "node scripts/export-static-data.cjs",
+    "data:import": "node scripts/export-static-data.cjs --from-sqlite",
+    "data:refresh-quran": "node scripts/export-static-data.cjs --refresh-quran"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.64.1",
+    "firebase-tools": "^15.34.2",
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^12.4.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "overrides": {
+    "@opentelemetry/core": "^2.8.0",
+    "gaxios": {
+      "uuid": "^11.1.1"
+    }
+  },
+  "allowScripts": {
+    "better-sqlite3@12.11.1": true,
+    "protobufjs@7.6.6": true,
+    "re2@1.27.0": true
+  }
+}

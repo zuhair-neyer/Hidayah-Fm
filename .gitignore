@@ -1,0 +1,16 @@
+node_modules/
+.env
+/data/
+public/media/
+*.db
+*.db-wal
+*.db-shm
+*.log
+.session-secret
+*-service-account*.json
+credentials*.json
+test-results/
+playwright-report/
+.firebase/
+
+work/

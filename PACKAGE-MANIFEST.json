@@ -1,0 +1,300 @@
+{
+  "version": "3.0.0",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 346,
+      "sha256": "503eac4da5e2e32696154cc853b400e763274f841e12d7a54a5ed86a2a423ce2"
+    },
+    {
+      "path": ".firebaserc",
+      "bytes": 44,
+      "sha256": "efe76a7294e7006a94a197c8f021bea8cf42c19c92f55cea33ad72b4a6211fc4"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 184,
+      "sha256": "72258e3235912076f7b6c7996020ad9a4228dcaea0683fb588ad5561232706e9"
+    },
+    {
+      "path": "database.rules.json",
+      "bytes": 1826,
+      "sha256": "455dd5aa23758a4705f8e97458420855d4513112c550cbd7ca9c6d759f56b6e5"
+    },
+    {
+      "path": "firebase.json",
+      "bytes": 201,
+      "sha256": "542c6040c4549651196d3d856d64f5129f9edbcec36836da81c4e4d648608408"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 306126,
+      "sha256": "6e7e0e09096f634a0e543c755a4d9b3d64fae0dcc9a9a37b3d4640ababf7cb6a"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1503,
+      "sha256": "5135392930fac919ef7cd179ac4b64edcb9b31d289956f1b3e01a1a0efa5b2e6"
+    },
+    {
+      "path": "playwright.config.cjs",
+      "bytes": 1053,
+      "sha256": "4f8fa3d98e5f2184bac8659b09f7f1b05315602ec6b95fe27a835bd4177f79f2"
+    },
+    {
+      "path": "public/404.html",
+      "bytes": 433,
+      "sha256": "6b69371fe76e96558db70268e675ff2185fc5a1a72ef42cd9f5d2cbde39f37e7"
+    },
+    {
+      "path": "public/assets/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "public/assets/logo.svg",
+      "bytes": 275,
+      "sha256": "61e62bbd34e427dfedc5bfd1523ca36610c494d2e1bb04440e3731072fad60ba"
+    },
+    {
+      "path": "public/assets/sanctuary.svg",
+      "bytes": 1341,
+      "sha256": "c55717ba9fbc046caf66e2e9dea15cd69578489b4aae1c841c2be9b84efc7db2"
+    },
+    {
+      "path": "public/css/app.css",
+      "bytes": 35284,
+      "sha256": "6249a75fe19c85f960d1579201228fd9dfa97b807fea0e0785a8fcadeddf24a3"
+    },
+    {
+      "path": "public/index.html",
+      "bytes": 4962,
+      "sha256": "5af074803083e56b85293aa81ffcef92f3e915cc637dab11289f7c9c1869e54b"
+    },
+    {
+      "path": "public/js/app.js",
+      "bytes": 57467,
+      "sha256": "a86c405eaeff98ec1992e7ccefd5d13f9e8a8f992eb55669d5f1950a03b192c7"
+    },
+    {
+      "path": "public/js/audio-player.js",
+      "bytes": 8749,
+      "sha256": "be48ccc893aba82a158bd07f822bfe72f45bbc598a779e8fddd7a0bb242c69b0"
+    },
+    {
+      "path": "public/js/client.js",
+      "bytes": 3102,
+      "sha256": "8dbfcfc8e5e1859b3527ebe88530eed7f6780219d75c2925edd6c6f5acf67ac7"
+    },
+    {
+      "path": "public/js/ui.js",
+      "bytes": 4271,
+      "sha256": "5abbe460b6432f0e616d18cccd53963b436ff5be8e3efdae70f969229e298773"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7922,
+      "sha256": "fe8c2f22c413d9c33118610e15cfbaad5a00c383593afdaed5ac0380e3781e69"
+    },
+    {
+      "path": "scripts/backup.cjs",
+      "bytes": 750,
+      "sha256": "88239d5cb22237484e0935ce076ba1bad3eda8f387eb8c8a38ad3bdd55712bc8"
+    },
+    {
+      "path": "scripts/check.cjs",
+      "bytes": 684,
+      "sha256": "1463ce015addcf0a42d3b06dea3c5971ae3d869b4020d3d9a4ace38e40a5c6c7"
+    },
+    {
+      "path": "scripts/launch.cjs",
+      "bytes": 908,
+      "sha256": "def4a6b328b5cd850cb585832f1bc41c1ba2e6ce8431c2f4df8eec0d031da86c"
+    },
+    {
+      "path": "scripts/media.cjs",
+      "bytes": 2783,
+      "sha256": "036e78229d0b95df56c55236afd4bb3f8d5ef7361773e16cbc7208f6ab5493f5"
+    },
+    {
+      "path": "scripts/migrate.cjs",
+      "bytes": 1714,
+      "sha256": "460c8cd1a5d9bd035c2f212dcf41208b16742fb6f058f792904d7e4b3a780793"
+    },
+    {
+      "path": "scripts/package.cjs",
+      "bytes": 3371,
+      "sha256": "f8abd07cbd68b918de8b24728024748adab5ad381051ee6abc1bb17c1e804f67"
+    },
+    {
+      "path": "scripts/reset-password.cjs",
+      "bytes": 705,
+      "sha256": "88c92f4064f09b070709692b18bac58afd61ed0b945111e2bfe5fe0f2a03ca40"
+    },
+    {
+      "path": "server/config.js",
+      "bytes": 810,
+      "sha256": "79b492e7f6e8314a8739a8b2cbe788ffd5615a46efbd36f7f7a24be28836d538"
+    },
+    {
+      "path": "server/controllers/auth.controller.js",
+      "bytes": 8680,
+      "sha256": "34cbe6ebc1e6a5d116915f13224b7312db0c63d5187ee968fe5e7ad0774a31e5"
+    },
+    {
+      "path": "server/controllers/history.controller.js",
+      "bytes": 2464,
+      "sha256": "3932f2883c605f144b4c922b5036886e0fbffcaee081a5e6407782e08913f201"
+    },
+    {
+      "path": "server/controllers/home.controller.js",
+      "bytes": 3008,
+      "sha256": "3cfa2bc6af3dc1a76af82fa39de307b6f886e250a033e2a02e04eb3e06e28b3d"
+    },
+    {
+      "path": "server/controllers/likes.controller.js",
+      "bytes": 822,
+      "sha256": "d262d7c5fe7c6aaeab6ddd57ae844b328b0cdaeb6049b4c46cb30a0bb48c4ab5"
+    },
+    {
+      "path": "server/controllers/playlists.controller.js",
+      "bytes": 3814,
+      "sha256": "eeebc69a646de274b2f3e1061eed0e97cc75b8036ed456c0ff55a05514456a50"
+    },
+    {
+      "path": "server/controllers/reciters.controller.js",
+      "bytes": 662,
+      "sha256": "9e6e956638f834279158c98b31d508c954d52f96d4e408b04f58980e1a4f950c"
+    },
+    {
+      "path": "server/controllers/surahs.controller.js",
+      "bytes": 3759,
+      "sha256": "9d2ec2f95f5f663d5749c16977088208137b9084e5dfc7c518c94bc359385523"
+    },
+    {
+      "path": "server/controllers/tracks.controller.js",
+      "bytes": 2182,
+      "sha256": "addf9f3e9892da347ee8575f801db38d47a841d2d898f19418d1a3242e41b761"
+    },
+    {
+      "path": "server/db.js",
+      "bytes": 1193,
+      "sha256": "0c9680ebab23f605df24b299fdc1c8238c3c186a7b5a9f2f4b3941b26e65f7c8"
+    },
+    {
+      "path": "server/firebase-config.js",
+      "bytes": 467,
+      "sha256": "596970816bc518612326e690ea90c8045f57bd94277fcca9c5f2a3934509dcf5"
+    },
+    {
+      "path": "server/firebase.js",
+      "bytes": 7033,
+      "sha256": "653a3b80526ef64ba64eb040f36fc15f42ecebbdc1e41053e56cba5c9c12cf50"
+    },
+    {
+      "path": "server/index.js",
+      "bytes": 3286,
+      "sha256": "627f262ee5b02e73c82f5b65d7fda5cc499c59796ec3f37a59758e55ca7830e1"
+    },
+    {
+      "path": "server/middleware/auth.js",
+      "bytes": 714,
+      "sha256": "ec1a129503be5f4ecf739720000aad465f80d161ccfd528f4f05f7907b121ec5"
+    },
+    {
+      "path": "server/middleware/errorHandler.js",
+      "bytes": 432,
+      "sha256": "59437c8dca5b3d5f4fe82bd4437af9e5e7b1bdec9fff304d4732c5a192feaa27"
+    },
+    {
+      "path": "server/migrate-legacy.js",
+      "bytes": 4360,
+      "sha256": "34afc9042fabfbea2265235a2683e6ecfc0118a3250dd958fa3f286cfb019aa4"
+    },
+    {
+      "path": "server/routes/auth.routes.js",
+      "bytes": 963,
+      "sha256": "aba9e998749ccf618b4a06256e862988fa1bea731026e5af1e1ac9b1cb8d801c"
+    },
+    {
+      "path": "server/routes/history.routes.js",
+      "bytes": 455,
+      "sha256": "bd617824b912ad8057095ed3268646de535b9c573d5c1060bdb7cc67ce7a49ab"
+    },
+    {
+      "path": "server/routes/home.routes.js",
+      "bytes": 229,
+      "sha256": "a7805367c9a6a26787f0f5ddcafc980b4dbc215ff9a1d4694ff40af7fb90098a"
+    },
+    {
+      "path": "server/routes/likes.routes.js",
+      "bytes": 335,
+      "sha256": "216aa149b76f1adc491467102e0ecb4a480efdeb13a1d915f83bc3cee1b1256a"
+    },
+    {
+      "path": "server/routes/playlists.routes.js",
+      "bytes": 617,
+      "sha256": "97b39e2a1e20677b93c83bebaf13447ada8496108978fef14c104d17f7009701"
+    },
+    {
+      "path": "server/routes/prayer.routes.js",
+      "bytes": 1963,
+      "sha256": "c7ca4f3c7088fd1b3059815749fa1be348162991e160684da4806e5d39b11e49"
+    },
+    {
+      "path": "server/routes/reciters.routes.js",
+      "bytes": 197,
+      "sha256": "1b30bef2a55cee9350cab2b8f5632031921cce642e0608e60371f0f29620fa56"
+    },
+    {
+      "path": "server/routes/surahs.routes.js",
+      "bytes": 234,
+      "sha256": "2d11a13bdbf81dc16cbfb7be2ab4cacaf7eacf0675260e7f9af831caf9dcdb47"
+    },
+    {
+      "path": "server/routes/tracks.routes.js",
+      "bytes": 232,
+      "sha256": "6d81893dea032e8d67c444b51ae5a37b93e8a259a356fedf127c88ce27ccaedb"
+    },
+    {
+      "path": "server/seed.js",
+      "bytes": 10732,
+      "sha256": "a67fd6fe2b18d1af27d0429003258b388f67eb1bf398356436a550a720a60e7d"
+    },
+    {
+      "path": "server/utils/async.js",
+      "bytes": 92,
+      "sha256": "95847b7a69b6ebbaf180c898d571cb5ba75ce78008e4da3bef1a7e3d5311cc77"
+    },
+    {
+      "path": "server/utils/audio.js",
+      "bytes": 758,
+      "sha256": "4ca13bc92c24f2f3f4bd4d6c0072b6db2624e899c0f09ddf59d4b4c44388f6d0"
+    },
+    {
+      "path": "server/utils/items.js",
+      "bytes": 2334,
+      "sha256": "b84f02f9937d45da3cd9e352ffc6d69094cb3a9d38d7354ffbca79d1ee5c8e19"
+    },
+    {
+      "path": "Start-Hidayah.cmd",
+      "bytes": 466,
+      "sha256": "81dedde7977f597bdf126f43856eb8afee4a5f4d6c7f8360c803674504193d31"
+    },
+    {
+      "path": "tests/api.test.cjs",
+      "bytes": 14617,
+      "sha256": "c58c936089a11bd00903167cdcef9c2bb02771f54cc4c12a5e0bedf14e0f53a9"
+    },
+    {
+      "path": "tests/app.spec.cjs",
+      "bytes": 13688,
+      "sha256": "4c5e425cacc61c8125d68430fd14ea0790a75db2cb5eda9ecf8bb92dc9aff04c"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 4691,
+      "sha256": "7c1f1a3d978d03f64e89657283a076fbbcfc00b9083c0c6ea34df579e896f2ff"
+    }
+  ]
+}

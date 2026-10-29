@@ -1,0 +1,1906 @@
+[
+  {
+    "title": "Qamarun",
+    "artist": "Mostafa Atef",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Uplifting",
+    "videoId": "VS9xft3NWUc",
+    "source": {
+      "title": "Mostafa Atef - Qamaroun | مصطفى عاطف - قمرٌ",
+      "channel": "Mostafa Atef",
+      "channelUrl": "https://www.youtube.com/@MostafaAtef_Official",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Kun Anta",
+    "artist": "Humood AlKhudher",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Be Yourself",
+    "videoId": "qKVW_wJs91Q",
+    "source": {
+      "title": "Humood - Kun Anta | حمود الخضر - كن أنت | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Forgive Me",
+    "artist": "Ahmed Bukhatir",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Astagfirullah",
+    "videoId": "5jYYcUFFqu0",
+    "source": {
+      "title": "Ahmed Bukhatir - Forgive Me أحمد بوخاطر - English Music Video",
+      "channel": "Ahmed Bukhatir | احمد بوخاطر",
+      "channelUrl": "https://www.youtube.com/@ahmedbukhatir",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Hasbi Rabbi",
+    "artist": "Sami Yusuf",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Traditional Zikr",
+    "videoId": "KxiY3gBzBgU",
+    "source": {
+      "title": "Sami Yusuf - Hasbi Rabbi (Official Video HD)",
+      "channel": "Müzikal EU",
+      "channelUrl": "https://www.youtube.com/@ayseaydemir2273",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Taweel Al Shawq",
+    "artist": "Abu Ali",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Deep Longing",
+    "videoId": null,
+    "sourceNote": "Legacy search fallback: the exact title/artist pairing could not be verified; retained to preserve existing library references."
+  },
+  {
+    "title": "The Way of the Tears",
+    "artist": "Muhammad Al Muqit",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Sabrun Jameel",
+    "videoId": "YiSQ_db-Dcw",
+    "source": {
+      "title": "The Way of The Tears - Exclusive Nasheed - Muhammad al Muqit",
+      "channel": "MercifulServant",
+      "channelUrl": "https://www.youtube.com/@TheMercifulServant",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Tajdar-e-Haram",
+    "artist": "Atif Aslam",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Acoustic Hamd",
+    "videoId": "vNFqBLI6IIA",
+    "source": {
+      "channel": "Atif Aslam - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCVGomUS__PL0c4jDXa0QwXA",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Faslon Ko Takalluf",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Urdu Classic",
+    "videoId": "dMH4Rpcvevc",
+    "source": {
+      "title": "Faslon ko takalluf hai humse agr Alhaj Muhammad Owais Raza Qadri Sahab Karachi Mehfil/2k19",
+      "channel": "Sabzwari Production",
+      "channelUrl": "https://www.youtube.com/@SabzwariVideoProduction",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Karam Mangta Hoon",
+    "artist": "Amjad Sabri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Qawwali Hamd",
+    "videoId": "j-Xif9q4vMU",
+    "source": {
+      "channel": "Amjad Ghulam Fareed Sabri - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCYJIbxa3E7_VC8aJYtwnyrg",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Zahe Muqaddar",
+    "artist": "Qari Waheed Zafar Qasmi",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Poetic Heritage",
+    "videoId": "d4vbqBcdQpQ",
+    "source": {
+      "title": "Zahe Muqaddar Huzoor e Haq Se Salam Aya | Qari Waheed Zafar Qasmi | ARY Qtv",
+      "channel": "ARY Qtv",
+      "channelUrl": "https://www.youtube.com/@ARYQtvofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Madine Ka Safar",
+    "artist": "Junaid Jamshed",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotional Classic",
+    "videoId": null,
+    "sourceNote": "Legacy search fallback: the exact title/artist pairing could not be verified; retained to preserve existing library references."
+  },
+  {
+    "title": "Dar-e-Nabi Par",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Darood & Salaam",
+    "videoId": "PkZ9tJ-pN2I",
+    "source": {
+      "title": "DAR E NABI ﷺ PAR - Hafiz Tahir Qadri - Heart Touching Naat 2020",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ya Nabi Salam Alayka",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "Vqfy4ScRXFQ",
+    "source": {
+      "title": "Maher Zain - Ya Nabi Salam Alayka (Arabic) | ماهر زين - يا نبي سلام عليك | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Assalamu Alayka",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "xwg9Lf5ruUE",
+    "source": {
+      "title": "Maher Zain - Assalamu Alayka (Arabic) | ماهر زين - السلام عليك | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Mawlaya",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Reflection",
+    "videoId": "uqaKaUVV4v0",
+    "source": {
+      "title": "Maher Zain - Mawlaya (Arabic) | ماهر زين - مولاي | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Number One For Me",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Gratitude",
+    "videoId": "f4J7-WR1QOY",
+    "source": {
+      "title": "Maher Zain - Number One For Me (Official Music Video)",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Baraka Allahu Lakuma",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic / English",
+    "mood": "Blessings",
+    "videoId": "mHpTdsBbYRM",
+    "source": {
+      "title": "Maher Zain - Baraka Allahu Lakuma | Official Lyric Video | ماهر زين - بارك الله لكما",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Qalbi Fil Madinah",
+    "artist": "Maher Zain & Harris J",
+    "type": "nasheed",
+    "language": "Arabic / English",
+    "mood": "Madinah",
+    "videoId": "2VLqZtded_0",
+    "source": {
+      "title": "Maher Zain & Harris J - Qalbi Fil Madinah | Official Music Video | قلبي في المدينة",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Radhitu Billahi",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Faith",
+    "videoId": "AjzE4Uj7kIM",
+    "source": {
+      "title": "Maher Zain - Radhitu Billahi (Arabic) | ماهر زين - رضيت بالله ربا | Official Lyrics",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ramadan",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Ramadan",
+    "videoId": "jnJdXj3P26M",
+    "source": {
+      "title": "Maher Zain - Ramadan (Arabic) | ماهر زين - رمضان | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Insha Allah",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Hope",
+    "videoId": "KfXIF2Mm2Kc",
+    "source": {
+      "title": "Maher Zain - Insha Allah | Insya Allah | ماهر زين - إن شاء الله | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "For the Rest of My Life",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Gratitude",
+    "videoId": "PHbZ9SXHJwA",
+    "source": {
+      "title": "Maher Zain - For The Rest Of My Life | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Assubhu Bada",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "ouKANRi0Fyo",
+    "source": {
+      "title": "Maher Zain - Assubhu Bada | ماهر زين - الصبح بدا⁠⁠⁠⁠ (Official Music Video)",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Thank You Allah",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Gratitude",
+    "videoId": "RBrdl0v_anc",
+    "source": {
+      "title": "Maher Zain - Thank You Allah | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Muhammad (Waheshna)",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "BiGVVAP3KsQ",
+    "source": {
+      "title": "Maher Zain - Muhammad (Pbuh) [Waheshna] | [ماهر زين - محمد (ص) [واحشنا | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Huwa AlQuran",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Quran",
+    "videoId": "AKxGpetj3_g",
+    "source": {
+      "title": "Maher Zain - Huwa AlQuran | ماهر زين - هو القرآن | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Allahi Allah Kiya Karo (Vocals Only)",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Urdu / English",
+    "mood": "Remembrance",
+    "videoId": "6sSM5sgR0Ms",
+    "source": {
+      "title": "Maher Zain - Allahi Allah Kiya Karo | Vocals Only (Lyrics)",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Lawlaka",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "k3amw5uKtK0",
+    "source": {
+      "title": "Maher Zain - Lawlaka (Music Video) | ماهر زين - لولاك",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "A'marona A'malona (Acapella)",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Reflection",
+    "videoId": "Tr7o2I0BKAE",
+    "source": {
+      "title": "Maher Zain - A'marona A'malona (Acapella) | ماهر زين - أعمارنا أعمالنا (بدون موسيقى) | Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "The Chosen One",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Devotion",
+    "videoId": "QbICjWI7Vrw",
+    "source": {
+      "title": "Maher Zain - The Chosen One | ماهر زين - المصطفى | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Medina",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Madinah",
+    "videoId": "e6leXlHk2Ro",
+    "source": {
+      "title": "Maher Zain - Medina | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Antassalam",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Peace",
+    "videoId": "wjJ_3DQ7qCU",
+    "source": {
+      "title": "Maher Zain - Antassalam | Official Music Video | ماهر زين - أنت السلام",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Salla Alayka Rahman",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "-Nly_L_f4Ng",
+    "source": {
+      "title": "Maher Zain -Salla Alayka Rahman | Official Music Video | ماهر زين - صلى عليك الرحمن",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Huwa Ahmadun",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "_VCQFrWfpGc",
+    "source": {
+      "title": "Maher Zain - Huwa Ahmadun -  ماهر زين - هو أحمدٌ | Nour Ala Nour EP",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Hold My Hand",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Unity",
+    "videoId": "zBrNyFJXrTY",
+    "source": {
+      "title": "Maher Zain - Hold My Hand | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Peace Be Upon You",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Devotion",
+    "videoId": "pZxFZNRHbZ4",
+    "source": {
+      "title": "Maher Zain -  Peace Be Upon You | ماهر زين - عليك صلى الله (Official Music Video)",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Open Your Eyes",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Reflection",
+    "videoId": "AY5LZopqyio",
+    "source": {
+      "title": "Maher Zain - Open Your Eyes | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Rahmatun Lil'Alameen",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "QlmzLvkGUFE",
+    "source": {
+      "title": "Maher Zain - Rahmatun Lil’Alameen | Official Music Video | ماهر زين - رحمةٌ للعالمين",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Hubb Ennabi",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "Mgr5kmBMa-Q",
+    "source": {
+      "title": "Maher Zain - Hubb Ennabi (Loving the Prophet) | Music Video | ماهر زين - حب النبي",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Qalbi Sajad",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Prayer",
+    "videoId": "AJKCO7gkWWQ",
+    "source": {
+      "title": "Maher Zain - Qalbi Sajad - ماهر زين - قلبي سجد | Official Music Video | Nour Ala Nour EP",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Subhana Allah",
+    "artist": "Maher Zain feat. Mesut Kurtis",
+    "type": "nasheed",
+    "language": "Arabic / English",
+    "mood": "Remembrance",
+    "videoId": "yZWqs-CGL-Y",
+    "source": {
+      "title": "Maher Zain feat. Mesut Kurtis - Subhana Allah | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Allah Ya Moulana",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Remembrance",
+    "videoId": "J-GlNB09FQQ",
+    "source": {
+      "title": "Maher Zain - Allah Ya Moulana | ماهر زين - الله يا مولانا | (Official Lyrics)",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Forgive Me",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Forgiveness",
+    "videoId": "BBif2s1SS1U",
+    "source": {
+      "title": "Maher Zain - Forgive Me | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ummi (Mother)",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Gratitude",
+    "videoId": "IBCsjyUXKjw",
+    "source": {
+      "title": "Maher Zain - Ummi (Mother) | Official Music Video | ماهر زين - أمي",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Guide Me All the Way",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Guidance",
+    "videoId": "L7-7A2AcHKs",
+    "source": {
+      "title": "Maher Zain - Guide Me All The Way | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "One Big Family",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Unity",
+    "videoId": "3ckXdWzINTw",
+    "source": {
+      "title": "Maher Zain - One Big Family | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Kun Rahma",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Kindness",
+    "videoId": "csO4RxdGP3Y",
+    "source": {
+      "title": "Maher Zain - Kun Rahma | ماهر زين - كن رحمة  (Music Video)",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Jannah",
+    "artist": "Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Hope",
+    "videoId": "5wuHHQO0pco",
+    "source": {
+      "title": "Maher Zain - Jannah | (Arabic) ماهر زين - جنة | Official Audio",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Salam Alaikum",
+    "artist": "Harris J",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Peace",
+    "videoId": "u_-McEvEGvI",
+    "source": {
+      "title": "Harris J - Salam Alaikum | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "I Promise",
+    "artist": "Harris J",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Gratitude",
+    "videoId": "PxN6X6FevFw",
+    "source": {
+      "title": "Harris J - I Promise | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "You Are My Life",
+    "artist": "Harris J",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Faith",
+    "videoId": "Q3zeQWZ62AU",
+    "source": {
+      "title": "Harris J - You Are My Life | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "My Hero",
+    "artist": "Harris J",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Devotion",
+    "videoId": "_TZLQJe9pFM",
+    "source": {
+      "title": "Harris J - My Hero | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Eid Mubarak",
+    "artist": "Harris J feat. Shujat Ali Khan",
+    "type": "nasheed",
+    "language": "English / Urdu",
+    "mood": "Eid",
+    "videoId": "qnxYiaHRPFY",
+    "source": {
+      "title": "Harris J - Eid Mubarak Ft. Shujat Ali Khan | Official Audio",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Rasool'Allah",
+    "artist": "Harris J",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Devotion",
+    "videoId": "AJvDzgg0Yss",
+    "source": {
+      "title": "Harris J - Rasool'Allah | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "The One",
+    "artist": "Harris J",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Faith",
+    "videoId": "kNMfRVtIOZA",
+    "source": {
+      "title": "Harris J - The One | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Tabassam (Smile)",
+    "artist": "Mesut Kurtis",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Joy",
+    "videoId": "mSF-r8FftT0",
+    "source": {
+      "title": "Mesut Kurtis - Tabassam (Smile) | مسعود كُرتِس - تبسّم | Official Lyric Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Eidun Saeed",
+    "artist": "Mesut Kurtis & Maher Zain",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Eid",
+    "videoId": "K0Oz48AL_xM",
+    "source": {
+      "title": "Mesut Kurtis & Maher Zain - Eidun Saeed | Official Lyric Video | مسعود كرتس و ماهر زين - عيدٌ سعيد",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "You Came to Me",
+    "artist": "Sami Yusuf",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Devotion",
+    "videoId": "z2_2cFityc4",
+    "source": {
+      "title": "Sami Yusuf  - You Came To Me #worldmusic",
+      "channel": "Sami Yusuf",
+      "channelUrl": "https://www.youtube.com/@samiyusuf",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Rouhi Fidak",
+    "artist": "Mesut Kurtis",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "9MOwOW5owd8",
+    "source": {
+      "title": "Mesut Kurtis - Rouhi Fidak | مسعود كُرتِس - روحي فداك | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ataytu Bithanbi",
+    "artist": "Mesut Kurtis",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Forgiveness",
+    "videoId": "rq-Du9GYP4I",
+    "source": {
+      "title": "Mesut Kurtis - Ataytu Bithanbi | مسعود كُرتِس - أتيت بذنبي",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Al-Mu'allim",
+    "artist": "Sami Yusuf",
+    "type": "nasheed",
+    "language": "Arabic / English",
+    "mood": "Devotion",
+    "videoId": "-QrMA5h-n_s",
+    "source": {
+      "title": "Sami Yusuf - Al-Mu'allim | سامي يوسف - المعلم | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Supplication",
+    "artist": "Sami Yusuf",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Prayer",
+    "videoId": "NzNY9BoWmh0",
+    "source": {
+      "title": "Sami Yusuf - Supplication | سامي يوسف - دعاء | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "I Believe",
+    "artist": "Irfan Makki feat. Maher Zain",
+    "type": "nasheed",
+    "language": "English",
+    "mood": "Faith",
+    "videoId": "pRztmbnyV70",
+    "source": {
+      "title": "Irfan Makki - I Believe feat. Maher Zain | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Aseer Ahsan",
+    "artist": "Humood AlKhudher",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Hope",
+    "videoId": "LOwUffkrgFQ",
+    "source": {
+      "title": "Humood - Aseer Ahsan | حمود الخضر - أصير أحسن",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "La'alla Khair",
+    "artist": "Humood AlKhudher",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Hope",
+    "videoId": "JHJycAP79Ww",
+    "source": {
+      "title": "Humood - La'alla Khair | حمود الخضر - لعله خير",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ha Anatha",
+    "artist": "Humood AlKhudher",
+    "type": "nasheed",
+    "language": "Arabic",
+    "mood": "Reflection",
+    "videoId": "YSS9CcUdAcM",
+    "source": {
+      "title": "Humood - Ha Anatha | حمود الخضر - فيديوكليب هأنذا | Official Music Video",
+      "channel": "Awakening Music",
+      "channelUrl": "https://www.youtube.com/@awakeningrecords",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Khuld Ka Nazara",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "Sz9bHU5RAJ8",
+    "source": {
+      "title": "Owais Raza Qadri | Khuld Ka Nazara | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Rok Leti Hai Apki Nisbat",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "lkT19OFYUtY",
+    "source": {
+      "title": "Owais Raza Qadri | Rok Leti Hai Apki Nisbat | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Koi Saleeqa Hai Arzoo Ka",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "mnwzILJDFM8",
+    "source": {
+      "title": "Owais Raza Qadri | Koi Saleeqa Hai Arzoo Ka | Official Video | Ye Sab Tumhara Karam Hai Aaqa",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Apni Nisbat Se Mein Kuch",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "m0M-elikeEI",
+    "source": {
+      "title": "Owais Raza Qadri | Apni Nisbat Se Mein Kuch | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Hum Ko Bulana Ya Rasool Allah",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "HU_AQyX4uaU",
+    "source": {
+      "title": "Owais Raza Qadri | Hum Ko Bulana Ya Rasool Allah | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Aye Sabz Gumbad Wale",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "uUqJxkGwzLg",
+    "source": {
+      "title": "Owais Raza Qadri | Aye Sabz Gumbad Wale | Official Video |",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Sunte Hai Mehshar Main",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "GXdaC4IPghA",
+    "source": {
+      "title": "Owais Raza Qadri | Sunte Hai Mehshar Main | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Lamyati Nazeero Kafi Nazarin",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Arabic / Urdu / Persian / Hindi",
+    "mood": "Devotion",
+    "videoId": "izCeKuFPADU",
+    "source": {
+      "title": "Owais Raza Qadri | Lamyati Nazeero Kafi Nazarin | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Mustafa Jaan E Rehmat Pe Lakhon Salam",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "PYGqWnpO2K8",
+    "source": {
+      "title": "Owais Raza Qadri | Mustafa Jaan E Rehmat Pe Lakhon Salam | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Josh e Rehmat",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "g9i5KbKFLp4",
+    "source": {
+      "title": "Owais Raza Qadri | Josh e Rehmat | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Main Madine Chala",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "K6Z32sg2Mnc",
+    "source": {
+      "title": "Owais Raza Qadri | Main Madine Chala | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ahl e Nazar Ki Aankh Ka Tara",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "bri6fpJARt8",
+    "source": {
+      "title": "Owais Raza Qadri | Ahl e Nazar Ki Aankh Ka Tara | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ab To Bula Lijiye Aaqa",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "8rnuYp7hDms",
+    "source": {
+      "title": "Owais Raza Qadri | Ab To Bula Lijiye Aaqa | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Bulalo Phir Mujhe",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "JsxNJj3XGRM",
+    "source": {
+      "title": "Owais Raza Qadri | Bulalo Phir Mujhe | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Al Nabi Sallu Aleh",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Arabic / Urdu",
+    "mood": "Devotion",
+    "videoId": "X1TojKb7BBk",
+    "source": {
+      "title": "Owais Raza Qadri | Al Nabi Sallu Aleh | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Lajpal Nabi Mere",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "O3H7uPOkdDQ",
+    "source": {
+      "title": "Owais Raza Qadri | Lajpal Nabi Mere | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Arsh e Haq Hai",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "MZWq5ZwYdRs",
+    "source": {
+      "title": "Owais Raza Qadri | Arsh e Haq Hai | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Faslon Ko Khudara Mita Do",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "D8Hm9OkOV4M",
+    "source": {
+      "title": "Owais Raza Qadri | Faslon Ko Khudara Mita Do | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Warafana Laka Zikrak",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu / Arabic",
+    "mood": "Devotion",
+    "videoId": "NscdlcRFiCM",
+    "source": {
+      "title": "Owais Raza Qadri | Warafana Laka Zikrak | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Mujh Pe Mehshar Mein",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "YPm8LlphcUg",
+    "source": {
+      "title": "Owais Raza Qadri | Mujh Pe Mehshar Mein | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Chaman e Taiba",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "H_2ymTjtXaQ",
+    "source": {
+      "title": "Owais Raza Qadri | Chaman e Taiba | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Utha Do Parda Dhikado Chehra",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "Z0YqPBMB3j0",
+    "source": {
+      "title": "Owais Raza Qadri | Utha Do Parda Dhikado Chehra | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ye Kis Shehensha e Wala Ki Amad Amad Hai",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "HpEXLnYRNNM",
+    "source": {
+      "title": "Owais Raza Qadri | Ye Kis Shehensha e Wala Ki Amad Amad Hai | Rabi Ul Awal Naat",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Sare Parho Durood Ajj Sarkar Aagaye",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Punjabi",
+    "mood": "Devotion",
+    "videoId": "mOplIFSi9tQ",
+    "source": {
+      "title": "Owais Raza Qadri | Sare Parho Durood Ajj Sarkar Aagaye | Rabi Ul Awal Kalam",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Huzoor Aisa Koi Intezam Ho Jaye",
+    "artist": "Owais Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "ktWsWUoPltc",
+    "source": {
+      "title": "Owais Raza Qadri | Huzoor Aisa Koi Intezam Ho Jaye | Heart Touching Naat | Official Video",
+      "channel": "Owais Raza Qadri",
+      "channelUrl": "https://www.youtube.com/@owaisrazaqadriofficial",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ye Dil Teri Yaadon Se",
+    "artist": "Huda Sisters",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "XabDAKptBd4",
+    "source": {
+      "title": "New Beautiful Heart Touching Naat Sharif - Huda Sisters - Ye Dil Teri Yaadon Se - Hi-Tech Islamic",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ponchon Dar e Sarkar Pe",
+    "artist": "Hafiza Sisters",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "IXOOnXlG4XM",
+    "source": {
+      "title": "Beautiful New Naat Sharif 2026 | Ponchon Dar e Sarkar Pe I Hafiza Sisters | Hi-Tech Islamic",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Naam e Muhammad",
+    "artist": "Rafia Sabri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "k_-taiANoXw",
+    "source": {
+      "title": "New Beautiful Naat Sharif 2026 - Naam e Muhammad - Rafia Sabri - Heart Touching Nasheed",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Jashan e Amad e Rasool",
+    "artist": "Huda Sisters",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "IYHizTZmVg0",
+    "source": {
+      "title": "New Naat I 12 Rabi-Ul-Awal I Jashan e Amad e Rasool I Huda Sisters I Naat Sharif 2026",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Marhaba Ya Mustafa",
+    "artist": "Hafiz Ghulam Mustafa Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "gA_pqROKn6A",
+    "source": {
+      "title": "12 Rabi-Ul-Awal Naat Sharif I New Naat 2026 | Marhaba Ya Mustafa I Hafiz Ghulam Mustafa Qadri",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Sarwar e Sarwaran Aa Gaye Hain",
+    "artist": "Sahil Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "MlqI3T04TIM",
+    "source": {
+      "title": "New Naat I 12 Rabi-Ul-Awal I Sarwar e Sarwaran Aa Gaye Hain I Sahil Raza Qadri I Naat Sharif 2026",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Noor Ka Samaa",
+    "artist": "Ghulam Mustafa Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "dnxRo59Mglg",
+    "source": {
+      "title": "2026 New Heart Touching Naat Sharif | Noor Ka Samaa | Ghulam Mustafa Qadri |12 Rabi-Ul-Awal Kids",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Amina Ka Lal Aaya",
+    "artist": "Anas Raza Attari",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "lfzECGPfE1Y",
+    "source": {
+      "title": "12 Rabi-Ul-Awal Naat Sharif 2026 - Amina Ka Lal Aaya - Anas Raza Attari - Heart Touching New Naat",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Naam e Muhammad Kitna Pyara Lagta Hai",
+    "artist": "Huda Sisters",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "30z4iNre7WU",
+    "source": {
+      "title": "Huda Sisters | Naam e Muhammad Kitna Pyara Lagta Hai / Prophet Muhammad SAW | New Naat Sharif",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Chamak Tujhse Paate Hain",
+    "artist": "Huda Sisters",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "An3pWWe5fUk",
+    "source": {
+      "title": "Huda Sisters - Chamak Tujhse Paate Hain - 2026 New Heart Touching Beautiful Naat Sharif (Nasheed)",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Mustafa Mustafa",
+    "artist": "Sahil Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "umY3Yrtnngo",
+    "source": {
+      "title": "The Best from Rest - Mustafa Mustafa - Sahil Raza Qadri - New Heart Touching Rabi ul Awal Nasheed",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Nabi Ka Zikar Hi",
+    "artist": "Noor Sisters",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "wIrc4JnAKog",
+    "source": {
+      "title": "Nabi Ka Zikar Hi ﷺ | New Heart Touching Beautiful Special Kids Naats Sharif | Noor Sisters",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Mustafa Jaan E Rehmat Pe Lakhon Salam",
+    "artist": "Sahil Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "GXZ_L3AIdKk",
+    "source": {
+      "title": "New Naat Sharif 2026 | Mustafa Jaan E Rehmat Pe Lakhon Salam | Sahil Raza Qadri",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Shah e Medina",
+    "artist": "Noor Sisters",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "kB6GRk8rM1E",
+    "source": {
+      "title": "Noor Sisters | Shah e Medina | 2026 New Heart Touching Beautiful Special Nasheed | Kids Naat Sharif",
+      "channel": "Hi-Tech Islamic Naat",
+      "channelUrl": "https://www.youtube.com/@HiTechIslamic",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Aya Milad e Nabi Ka",
+    "artist": "Hafiz Tahir Qadri & Sahil Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "rTPT0KhLfwk",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Aya Milad e Nabi ﷺ Ka - Sahil Raza Qadri - Rabi Ul Awal Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Wo Bhi Din Aaye Ga Yaar",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "-0dpgnrVp4w",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Wo Bhi Din Aaye Ga Yaar - Main Madine Jaon Ga - Rabi Ul Awal Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ik Roz Hoga Jana Sarkar Ki Gali Mein",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "30BbIuwxzKI",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Ik Roz Hoga Jana Sarkar ﷺ Ki Gali Mein - Rabi Ul Awal Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Jaga Jaga Hoga Milad e Mustafa",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "4o89ID1tj90",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Jaga Jaga Hoga Milad e Mustafa ﷺ - Rabi Ul Awal Naat 2026 - Milad Title Kalam",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Gali Gali Saj Gayi",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "lRWpLnZgMIE",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Gali Gali Saj Gayi - Rabi Ul Awal Milad Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Noor Wale Mustafa Aa Gaye Chha Gaye",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "ct1vs7Hwy9s",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Noor Wale Mustafa ﷺ Aa Gaye Chha Gaye - New Rabi Ul Awal Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Pyare Nabi Ka Jashn-e-Wiladat",
+    "artist": "Hafiz Tahir Qadri & Sahil Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "MNxyySluZcE",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Pyare Nabi ﷺ Ka Jashn-e-Wiladat - Sahil Raza Qadri - Rabi Ul Awal Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Amar Piyara Mustafa Nabi Salle Aala",
+    "artist": "Hafiz Tahir Qadri & Sahil Raza Qadri",
+    "type": "naat",
+    "language": "Bengali",
+    "mood": "Devotion",
+    "videoId": "E2i7me2Cwl4",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Amar Piyara Mustafa Nabi Salle Aala - Sahil Raza Qadri - Bangali Kalam 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Tajdar-e-Haram",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "onWvB6QnT4M",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Tajdar-e-Haram - New Durood o Salam - New Ramzan Kalam 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Zair e Taiba Roze Pe Jaa Kar",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "MKGX10PX9Ig",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Zair e Taiba Roze Pe Jaa Kar - New Ramzan Kalam 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Warafana Laka Zikrak",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu / Arabic",
+    "mood": "Devotion",
+    "videoId": "D87V-6Ak_Ac",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Warafana Laka Zikrak - New Ramzan Kalam 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Sab Se Aula o Aala",
+    "artist": "Hafiz Tahir Qadri & Sahil Raza Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "QDzWI4jfRns",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Durood Shareef - Sab Se Aula o Aala - Sahil Raza Qadri - Ramadan Kalam 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Aye Shafi e Umam Shah e Zee Jaah Le Khabar",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "RMYIblEsGr8",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Aye Shafi e Umam Shah e Zee Jaah Le Khabar - Shabe Barat Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Meraj e Mustafa Hai",
+    "artist": "Hafiz Tahir Qadri & Hafiz Ahsan Qadri",
+    "type": "naat",
+    "language": "Urdu",
+    "mood": "Devotion",
+    "videoId": "n_F24Lpu6vI",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Meraj e Mustafa ﷺ Hai - Hafiz Ahsan Qadri - Shab e Meraj Naat 2026",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  },
+  {
+    "title": "Ya Nabi Salam Alayka",
+    "artist": "Hafiz Tahir Qadri",
+    "type": "naat",
+    "language": "Arabic",
+    "mood": "Devotion",
+    "videoId": "8H57QCfcJ8E",
+    "source": {
+      "title": "Hafiz Tahir Qadri - Ya Nabi Salam Alayka - Durood o Salam - Ramzan Kalam 2025",
+      "channel": "Hafiz Tahir Qadri",
+      "channelUrl": "https://www.youtube.com/@HafizTahirQadri",
+      "checked": "2026-10-29",
+      "method": "YouTube oEmbed",
+      "status": 200
+    }
+  }
+]

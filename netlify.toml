@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+  command = ""
+
+# The site has no build step or production package dependencies.
+[build.environment]
+  NPM_FLAGS = "--omit=dev"

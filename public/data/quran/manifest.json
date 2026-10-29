@@ -1,0 +1,580 @@
+{
+  "source": "https://api.alquran.cloud",
+  "arabic_edition": "quran-uthmani",
+  "translation_edition": "en.sahih",
+  "downloaded_at": "2026-10-29T12:30:49.890Z",
+  "surahs": 114,
+  "ayahs": 6236,
+  "files": [
+    {
+      "surah_id": 1,
+      "ayah_count": 7,
+      "sha256": "412a1f95c41c5ce001346f0f4d3224d256f88e150751128b747bedf4aea7413a"
+    },
+    {
+      "surah_id": 2,
+      "ayah_count": 286,
+      "sha256": "afe42ed9b8b747c89d5c8b60f819a8c1260282966bab41687cbc3a502940b655"
+    },
+    {
+      "surah_id": 3,
+      "ayah_count": 200,
+      "sha256": "248a312ced884dbd90ad84772b36c3b93c0c540ded6ae6191a3f261fa48dcd44"
+    },
+    {
+      "surah_id": 4,
+      "ayah_count": 176,
+      "sha256": "6f2a74ea86a7c89d96f2e42e631e4dacea0519a0e493f490392b6a9e5b388ef1"
+    },
+    {
+      "surah_id": 5,
+      "ayah_count": 120,
+      "sha256": "dde6d3d68b975af452a927e529d0ad0582073d1d2234923f1f5e5a45bdbdac7b"
+    },
+    {
+      "surah_id": 6,
+      "ayah_count": 165,
+      "sha256": "9c8a25c78c5b3fe8efcd0efd5cc7cb6747c03b9b2bbe2519eea9e8abb9137bc9"
+    },
+    {
+      "surah_id": 7,
+      "ayah_count": 206,
+      "sha256": "40661f6d105304085ae4eeffbe3f46c454902d7ee6627ce865eb1b17ed266392"
+    },
+    {
+      "surah_id": 8,
+      "ayah_count": 75,
+      "sha256": "2fffe61d79a5bff26d9f07d84a1b8c5c032c0e41114c085b746dea4717590637"
+    },
+    {
+      "surah_id": 9,
+      "ayah_count": 129,
+      "sha256": "591e39d4ab7dcabc35e4c28be27890a6cc7456f8e5cb542e154c3c3e46f46a7a"
+    },
+    {
+      "surah_id": 10,
+      "ayah_count": 109,
+      "sha256": "b660df2c81af4b0af355946954533db3dd2e31d4e54e07072b571e3deb1399db"
+    },
+    {
+      "surah_id": 11,
+      "ayah_count": 123,
+      "sha256": "d2442b209d24b3018a0c367e1cadbace5a5e745461b63ffed8f684bd4be6b2e8"
+    },
+    {
+      "surah_id": 12,
+      "ayah_count": 111,
+      "sha256": "b7a7e5654ec59ba34def19e92127d57056b2669d4447ddcb0a564a2788ca96c2"
+    },
+    {
+      "surah_id": 13,
+      "ayah_count": 43,
+      "sha256": "9df402472114a2fe39fa8c09f057b93ff5c868213a3088964085b6037df12381"
+    },
+    {
+      "surah_id": 14,
+      "ayah_count": 52,
+      "sha256": "967138df0ec76c7a7557b1bf4e9ec87bbe821f0b97ab010bca968e73893af48b"
+    },
+    {
+      "surah_id": 15,
+      "ayah_count": 99,
+      "sha256": "89f48c329087343604a7d62be45092845e9f8c2761eb667060aae8efb8b24234"
+    },
+    {
+      "surah_id": 16,
+      "ayah_count": 128,
+      "sha256": "ab734cc5b398d2d1b0e11d1c6fa96e275d44cdcb37299b0bff399a7bfdc27095"
+    },
+    {
+      "surah_id": 17,
+      "ayah_count": 111,
+      "sha256": "7eced3c1b7226edbbcc4c2400dd0d57c90dc288ca6553a9ea803aa5a7a31fb2a"
+    },
+    {
+      "surah_id": 18,
+      "ayah_count": 110,
+      "sha256": "3080fb04e9bdac37dbd9528ebd7a7a6197a5d042680593078c8bdace322ac48b"
+    },
+    {
+      "surah_id": 19,
+      "ayah_count": 98,
+      "sha256": "c3d25dfd286ed45584c38926c4b706d7a506004ff94fb4888689527db3ba7623"
+    },
+    {
+      "surah_id": 20,
+      "ayah_count": 135,
+      "sha256": "099e8fc54187641ae23ae72f458c28182554da93789de5d7861b9d769677260b"
+    },
+    {
+      "surah_id": 21,
+      "ayah_count": 112,
+      "sha256": "4612158f68158e9563e23ce4ab4eff33b2929d284271585c64dae16befde4ead"
+    },
+    {
+      "surah_id": 22,
+      "ayah_count": 78,
+      "sha256": "f6995158fb786d743af5998cab6177dd4799b6a47cc973383e44676801d75b2e"
+    },
+    {
+      "surah_id": 23,
+      "ayah_count": 118,
+      "sha256": "77f408e4c49e9a2f4aebc09b8aab1c519ba1ccd0d96543c1a9c9b7da41410127"
+    },
+    {
+      "surah_id": 24,
+      "ayah_count": 64,
+      "sha256": "c8123acc0f2b0803c4f1844c406558634cd1deb8936b6dce78cc656c26cb97d1"
+    },
+    {
+      "surah_id": 25,
+      "ayah_count": 77,
+      "sha256": "171e860c4a2eadd06d55185005c14530e11454b5340f19d5966ca08799c9587a"
+    },
+    {
+      "surah_id": 26,
+      "ayah_count": 227,
+      "sha256": "57c6dfd487169f2c7c1a8c1ba1a5cd7deab29e27c83d4163ee8176b47a752d8a"
+    },
+    {
+      "surah_id": 27,
+      "ayah_count": 93,
+      "sha256": "ccb51969c092c8914a1c975c4316e0fbe82f83fbc9108cc3d4fbb8b282b1b47a"
+    },
+    {
+      "surah_id": 28,
+      "ayah_count": 88,
+      "sha256": "47ef537c55623011e4bdb497090d4cc608db6d594cee2dc9fc8e5b586a11f8ce"
+    },
+    {
+      "surah_id": 29,
+      "ayah_count": 69,
+      "sha256": "1873cd622d8fcedf4efd3e0dfec192ea467abcab14a2b44edac7b7104fd26ff1"
+    },
+    {
+      "surah_id": 30,
+      "ayah_count": 60,
+      "sha256": "549b436abc392a2aabee790345b8fc02377a9fa3c8ba1c8d52aad9d081bd8e1b"
+    },
+    {
+      "surah_id": 31,
+      "ayah_count": 34,
+      "sha256": "196a21aee644eb58d4fc9d5c4b1a55b85049863df807c3e100c78fa988cdf4e9"
+    },
+    {
+      "surah_id": 32,
+      "ayah_count": 30,
+      "sha256": "3333b32d62b77a213e549aaacfdd970add677b743c28c0321f329ee204dee7ce"
+    },
+    {
+      "surah_id": 33,
+      "ayah_count": 73,
+      "sha256": "63bbf0cf6816ddd070b83d24cb423718a239f2453c294fb25cdd7161c1bb163c"
+    },
+    {
+      "surah_id": 34,
+      "ayah_count": 54,
+      "sha256": "490b834b7f9a6c12a878865ad5cc5266976947cc4b4b7adbe54486f256a1d781"
+    },
+    {
+      "surah_id": 35,
+      "ayah_count": 45,
+      "sha256": "69ff0265bf4f7f004c307c8b30982cdd91480b98a668b3735d8a4cb49011d27c"
+    },
+    {
+      "surah_id": 36,
+      "ayah_count": 83,
+      "sha256": "e6bdeabc899f59817b2bd20bcf3c1aecbc04998f8ba3e97e75c5ca2ace1ce7a8"
+    },
+    {
+      "surah_id": 37,
+      "ayah_count": 182,
+      "sha256": "d3338681e23fdebdfd96bd4fa06307729d644282f8e24938796a17a7ace30c02"
+    },
+    {
+      "surah_id": 38,
+      "ayah_count": 88,
+      "sha256": "df43458e67a4e211261fd4f9d5289e8210242939866eb5ba8e9c73873381269f"
+    },
+    {
+      "surah_id": 39,
+      "ayah_count": 75,
+      "sha256": "94b23149be27da8f7b291cbd344364aa3a031f7ddface1f4a431bbd3e619e12a"
+    },
+    {
+      "surah_id": 40,
+      "ayah_count": 85,
+      "sha256": "c223a13b5e2c2ffd08234cd3e20a2c2a2d60a6fd4a9266e8cdd0be36d5ec8c85"
+    },
+    {
+      "surah_id": 41,
+      "ayah_count": 54,
+      "sha256": "0d5b1e8e0702cdcb7839617ce44830df7ef022c8eb38d5b966c5074784298cee"
+    },
+    {
+      "surah_id": 42,
+      "ayah_count": 53,
+      "sha256": "14d16d668ce928aee34a86624b02cf2ae85dc0b9bc46affe3f0b1243d00a3736"
+    },
+    {
+      "surah_id": 43,
+      "ayah_count": 89,
+      "sha256": "cc0df82358d25082efcc5efec31547709a9bebf9adb9e9e63f6514f313505c31"
+    },
+    {
+      "surah_id": 44,
+      "ayah_count": 59,
+      "sha256": "a7be3d546110ede0f41ff0e1a01ad0ee6aaf942b7e8f5f164929571221ac5848"
+    },
+    {
+      "surah_id": 45,
+      "ayah_count": 37,
+      "sha256": "dcefaa42849659242f8f6643cef37ec7a89562edab46172e14be4f6a8b496045"
+    },
+    {
+      "surah_id": 46,
+      "ayah_count": 35,
+      "sha256": "3c20bae45e4836f44978a4cc5493e0902f9d2997dc2f17a19a8423e5d246f0db"
+    },
+    {
+      "surah_id": 47,
+      "ayah_count": 38,
+      "sha256": "a6dca0a5b057417fdf19cbe2139262b92239d42dc872c3f7387448006fa399c7"
+    },
+    {
+      "surah_id": 48,
+      "ayah_count": 29,
+      "sha256": "57b2c760273a058944bff4554ca1e7ca169d577e961bc2adde1d5912f5631502"
+    },
+    {
+      "surah_id": 49,
+      "ayah_count": 18,
+      "sha256": "bf1f82995afd4ff2e574021bd4d4c6cb626e5f8bb9fb5f1030c978dfd46784b4"
+    },
+    {
+      "surah_id": 50,
+      "ayah_count": 45,
+      "sha256": "6a269d7621831085cb4cc77a36ec1eb0f8d2d0a62a627770cf03ca8e73165a58"
+    },
+    {
+      "surah_id": 51,
+      "ayah_count": 60,
+      "sha256": "7cf5d1c893879cabc4b646fdb50063792e0cd217223cc72779629370bc2fd40e"
+    },
+    {
+      "surah_id": 52,
+      "ayah_count": 49,
+      "sha256": "e05ff3d04ecdb838be5b6a56478a1f477e15285d9e83f9ce7eb23fd6f1c99cf5"
+    },
+    {
+      "surah_id": 53,
+      "ayah_count": 62,
+      "sha256": "0a894defb130771103bd7612ede2037ac470cfdf157fdc52772ee9a926e0a1c1"
+    },
+    {
+      "surah_id": 54,
+      "ayah_count": 55,
+      "sha256": "eecbbc3f70b83eeb48dd94953bf5f09a4e28dc62b54ccfbbb2314e0dacaf4e65"
+    },
+    {
+      "surah_id": 55,
+      "ayah_count": 78,
+      "sha256": "4b2e748a38255b0ab5e475016c1cf7329a386bb82cd81b30d3160a3d8ae5a79c"
+    },
+    {
+      "surah_id": 56,
+      "ayah_count": 96,
+      "sha256": "5b27eeb0f58eeb62382b67866ec1128376c2d7123ef869289e2f3e921b6b01b2"
+    },
+    {
+      "surah_id": 57,
+      "ayah_count": 29,
+      "sha256": "0db1f1564cbf90d956d95efc5ce986a7fca37cff9dfdbba5ae1cdd37c94d57ed"
+    },
+    {
+      "surah_id": 58,
+      "ayah_count": 22,
+      "sha256": "ae0f4d2352e9a169a746f38e70c4442f85a63fc509d0db7963928c8cda1c4f89"
+    },
+    {
+      "surah_id": 59,
+      "ayah_count": 24,
+      "sha256": "c44ac59264fa69c853d2f36a29ee1a0a2736d936b83c5896ca7ec493db046a73"
+    },
+    {
+      "surah_id": 60,
+      "ayah_count": 13,
+      "sha256": "9f1ef91230c7ea4772b7573b6ed718e8130db96e630472dbf4698d40dc097f20"
+    },
+    {
+      "surah_id": 61,
+      "ayah_count": 14,
+      "sha256": "bbbc6a18f14a190da559fbc47adc90ccc9dc038ff1cddc590835203a67dfb766"
+    },
+    {
+      "surah_id": 62,
+      "ayah_count": 11,
+      "sha256": "83dd3b6b32ba588c9788cb9f443ebac64bdcc7e8f98bc529cbfc45df494f5957"
+    },
+    {
+      "surah_id": 63,
+      "ayah_count": 11,
+      "sha256": "50e6fa27d1f1245b8effcef5a3233df6722ad52626468ed151a340ea426795c9"
+    },
+    {
+      "surah_id": 64,
+      "ayah_count": 18,
+      "sha256": "292df4239c268be19b9c912174684c5f011fc747027c3452b8bbc7462a9321f8"
+    },
+    {
+      "surah_id": 65,
+      "ayah_count": 12,
+      "sha256": "3a44cc06db9c789ed4ea98e4948112980590855cadcca41791fef1d00ed2a8e7"
+    },
+    {
+      "surah_id": 66,
+      "ayah_count": 12,
+      "sha256": "ba0364c43b106fc449c270402e2137316b5c57465b8e77ad9702b95dadf1aad0"
+    },
+    {
+      "surah_id": 67,
+      "ayah_count": 30,
+      "sha256": "abdd0b116f43cfb98566a534b4aea6e84ecb2406e3bfa4cf756bcabab7af39cf"
+    },
+    {
+      "surah_id": 68,
+      "ayah_count": 52,
+      "sha256": "6193005c2e4184e971727d8b022d98dde21a131e8eff5c99d0eacc1c157cc410"
+    },
+    {
+      "surah_id": 69,
+      "ayah_count": 52,
+      "sha256": "a914e58f36bc25dce65bf744b4c4ebe2aab793e75deb40aabb9842b416210d79"
+    },
+    {
+      "surah_id": 70,
+      "ayah_count": 44,
+      "sha256": "5fc2f95753739ad879170ea7dd1514a368062a5f38f1b0d33ffd107915d32eec"
+    },
+    {
+      "surah_id": 71,
+      "ayah_count": 28,
+      "sha256": "a3685a83af45a921ff0c3ff82d914942c63459be95e359530ccbc6c1eb6c633c"
+    },
+    {
+      "surah_id": 72,
+      "ayah_count": 28,
+      "sha256": "a23730c973843b37c4447682e99547381c2f2688f85b80a2f0ebc46a619d06c7"
+    },
+    {
+      "surah_id": 73,
+      "ayah_count": 20,
+      "sha256": "6149a4ee9c325b9b78da635af20dba1109b2ee138bd8e5a1ef55dc79ecbf0005"
+    },
+    {
+      "surah_id": 74,
+      "ayah_count": 56,
+      "sha256": "ec04edf29c47e2974bcdfcbd589ac4984e143b04bec8dc6bc5889460fd2e5e91"
+    },
+    {
+      "surah_id": 75,
+      "ayah_count": 40,
+      "sha256": "f2bb82a1daa199ac487bde510750e31cdd159067b42e6eba3a1de4cff6402e53"
+    },
+    {
+      "surah_id": 76,
+      "ayah_count": 31,
+      "sha256": "cd8974187a0519a7158aa67cf081e75ce0a8a280e43e2e581ad9c23dd8c989fa"
+    },
+    {
+      "surah_id": 77,
+      "ayah_count": 50,
+      "sha256": "977089fc0c86fc626e3e1f38b0775d688ebdcc38c51305a86d508d0c7fc21684"
+    },
+    {
+      "surah_id": 78,
+      "ayah_count": 40,
+      "sha256": "026d59a601ba9e98e94703626e0198610b1ddd37a3e07878041cce848df43d22"
+    },
+    {
+      "surah_id": 79,
+      "ayah_count": 46,
+      "sha256": "69131e51a4b4ce588bc0fc6efd27144e677d45a333c6346358728f904c6e0d53"
+    },
+    {
+      "surah_id": 80,
+      "ayah_count": 42,
+      "sha256": "40c9dd60c782322fc465f3776fa9ae03d423a3de951aff5dd1993a14168997f7"
+    },
+    {
+      "surah_id": 81,
+      "ayah_count": 29,
+      "sha256": "6894c6f75778ef2b9072fdc4aac195acca949fd20791ad2d70df68e079b01dc0"
+    },
+    {
+      "surah_id": 82,
+      "ayah_count": 19,
+      "sha256": "2fba241a516545845f1925cb24c7859d65ca56fd6f46e1862252edb59bf15dee"
+    },
+    {
+      "surah_id": 83,
+      "ayah_count": 36,
+      "sha256": "f08e5a7f7bbd8ccf5adb96dd34517c7259855b9e33b8351fe62312da3bc06d77"
+    },
+    {
+      "surah_id": 84,
+      "ayah_count": 25,
+      "sha256": "1264d072db9152a3462bba92df5cbf8851abd28a4c3ffde38def91b104c8570e"
+    },
+    {
+      "surah_id": 85,
+      "ayah_count": 22,
+      "sha256": "f4c27e0e85f3de14680a72493b73a4784ec7a3cfecaa4170b0fada4288da480e"
+    },
+    {
+      "surah_id": 86,
+      "ayah_count": 17,
+      "sha256": "15cc4f778fe2106700993e8b6fee65708b9bf84f6de3a001f596fb4a7f15d50e"
+    },
+    {
+      "surah_id": 87,
+      "ayah_count": 19,
+      "sha256": "3acd55295bd5ab27a718e31586bfe445831d5bee4ba9c78020bf62f26ea448fb"
+    },
+    {
+      "surah_id": 88,
+      "ayah_count": 26,
+      "sha256": "34d63d6953c690c32045071c3686bc7afea0d78c4862306eb30ec0c3f8cd04e5"
+    },
+    {
+      "surah_id": 89,
+      "ayah_count": 30,
+      "sha256": "115b5727c22b3018958258388706cb1be378af1e44dde9d6a1a7f0686bf4fdf2"
+    },
+    {
+      "surah_id": 90,
+      "ayah_count": 20,
+      "sha256": "ec8dc5fcfdc87a519e07cc5074afd287b5a2f187fdde070ce726f555001ffd68"
+    },
+    {
+      "surah_id": 91,
+      "ayah_count": 15,
+      "sha256": "3584c530bf61980be54d2173aa6bcb9866df1d59c2bddf77625d0f4d85bb0169"
+    },
+    {
+      "surah_id": 92,
+      "ayah_count": 21,
+      "sha256": "68dc48d40fb3074d5d2cb4af79ecdc10c7b72112bbffe1ba0194dae97f8aea6a"
+    },
+    {
+      "surah_id": 93,
+      "ayah_count": 11,
+      "sha256": "c5427a94001641d715b17771ea095c202e398a435040ee8bc387becdf1c1087b"
+    },
+    {
+      "surah_id": 94,
+      "ayah_count": 8,
+      "sha256": "e40875b6b7b72ad2ab65878f03c74db2544df6889688d711e8df3f756a9d2774"
+    },
+    {
+      "surah_id": 95,
+      "ayah_count": 8,
+      "sha256": "be0d3fddced8b79961b44fa73fd95a52fabc56062093d88ba857a7154bbbce81"
+    },
+    {
+      "surah_id": 96,
+      "ayah_count": 19,
+      "sha256": "0e700d8f5b4cc8a230e1daffabb2482c3d87975c3eae40a5ba1544f2f5b8b742"
+    },
+    {
+      "surah_id": 97,
+      "ayah_count": 5,
+      "sha256": "4a319182ac70a90e12042f3d9647e004a4c1cf4f0be3f0b26e7b1e42c2e0748e"
+    },
+    {
+      "surah_id": 98,
+      "ayah_count": 8,
+      "sha256": "f8f4f2ec5a02eabc0b79d1a7fe6a41b9ddd5572105e576dd4b1a9f916f5235a3"
+    },
+    {
+      "surah_id": 99,
+      "ayah_count": 8,
+      "sha256": "5b79dd37bd35eff96d532b62104ac8e3390fefc89a2dec3aa362e583379a1ec3"
+    },
+    {
+      "surah_id": 100,
+      "ayah_count": 11,
+      "sha256": "a807dc89fdbc996bed26d4ec55c6424e7394993aa15fde309f9f6bb79aa81658"
+    },
+    {
+      "surah_id": 101,
+      "ayah_count": 11,
+      "sha256": "82a6d212210cc641490161f643a6c0a0c973e0927f26ad32dcc0808ca34039f4"
+    },
+    {
+      "surah_id": 102,
+      "ayah_count": 8,
+      "sha256": "719966ce3869a81903f1c2c4bf9fbb87a303e2ad4804c448c81311261221868e"
+    },
+    {
+      "surah_id": 103,
+      "ayah_count": 3,
+      "sha256": "a234fa55f33d62acec4407a2b570e3d91fc20476d44129ea2a525c6fd7afef44"
+    },
+    {
+      "surah_id": 104,
+      "ayah_count": 9,
+      "sha256": "94e1e804afa9ea1d72b68e29a9908810f00ed7aa58b010e6fb3c677c66e309fc"
+    },
+    {
+      "surah_id": 105,
+      "ayah_count": 5,
+      "sha256": "8f34de8d9a6ec0560196152f792e57df487435be3c66c4cb19b60baefa00058c"
+    },
+    {
+      "surah_id": 106,
+      "ayah_count": 4,
+      "sha256": "8f11804046ca8791cde2eab0e46ceff1fb6dda842626061243a5464dd1b65402"
+    },
+    {
+      "surah_id": 107,
+      "ayah_count": 7,
+      "sha256": "e0f8dc05f76d23c56547292d0ae3febfa5f6a5300cb10244a01d4ad522d1bb5a"
+    },
+    {
+      "surah_id": 108,
+      "ayah_count": 3,
+      "sha256": "c858309c96e79a41b11602e66e9e179ff6ebeeb5628a4a7896010fecaf2cbdea"
+    },
+    {
+      "surah_id": 109,
+      "ayah_count": 6,
+      "sha256": "ac1c1fe2bf1090df5ec11199f68bfe2223ffe775a04c1cafaf23169b15ed5bb0"
+    },
+    {
+      "surah_id": 110,
+      "ayah_count": 3,
+      "sha256": "43eb381dc7025e2f3ac95df9be0b54f743bbc1cf9ee19ab0d374d95112617104"
+    },
+    {
+      "surah_id": 111,
+      "ayah_count": 5,
+      "sha256": "767d9ade8c078c00f7c44e8cac5ade984a56feba77508e5be463e0cf2db7f34d"
+    },
+    {
+      "surah_id": 112,
+      "ayah_count": 4,
+      "sha256": "83cc7ff75b7d89cc10383e5713d2ed99928e9687cd092d2ebbc7465a2d1b337c"
+    },
+    {
+      "surah_id": 113,
+      "ayah_count": 5,
+      "sha256": "501e60778eb10cd91bb42f2664b45c3db0745dc0217b998ba3935fb1c57d0c5f"
+    },
+    {
+      "surah_id": 114,
+      "ayah_count": 6,
+      "sha256": "0a0524fd135771af892f44e82b86999d5c685960190fa24d25ba013860f20216"
+    }
+  ]
+}
