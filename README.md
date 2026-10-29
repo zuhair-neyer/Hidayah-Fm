@@ -62,7 +62,7 @@ A localhost reset link works only on the computer running the same preview port.
 - All 114 surahs, Arabic names, meanings, verse counts, filters, grid/list views and search.
 - Six full-surah Quran reciters plus an external reciter source.
 - All **6,236 Arabic Uthmani/Sahih International English verse pairs** bundled locally across 114 chapter files, with copy, verse jump and cloud bookmark.
-- Audio across navigation, queue and ordering, previous/next, seek, shuffle, repeat, speed, volume and sleep timer; mobile Now playing controls.
+- Audio across navigation, queue and ordering, previous/next, seek, shuffle, repeat, volume and sleep timer; mobile Now playing controls. Recitations play at their original recorded speed.
 - Profile and preferences, password change, account export/deletion, and custom password reset.
 - Likes, playlists, history, completion counts, saved playback and Friday/daily recommendations.
 - Prayer times for the selected city/country and calculation method, fetched directly from AlAdhan.

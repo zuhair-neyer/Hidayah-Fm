@@ -9,7 +9,9 @@ const storageKey=()=> 'hfm_playback_'+storageOwner;
 let current=null,queue=[],index=-1,shuffle=false,repeat='off',logged=false,restoreTime=0,lastSave=0,lastProgress=0,sleepDeadline=0,sleepTimer=null;
 let lastCloudSave=0,pendingCloud=null,cloudSaving=false,lastCloudWarning=0;
 const volume=Number(readStore('hfm_volume',0.8));audio.volume=Number.isFinite(volume)?clamp(volume,0,1):0.8;
-audio.playbackRate=Number(readStore('hfm_speed',1))||1;
+// Recitations use their original recorded speed, including after upgrades.
+audio.defaultPlaybackRate=1;audio.playbackRate=1;
+try{localStorage.removeItem('hfm_speed');}catch{}
 function changed(){render();window.dispatchEvent(new Event('player-change'));}
 async function flushCloud(){
  if(cloudSaving)return;cloudSaving=true;
@@ -70,7 +72,6 @@ export const Player={
  select(i){if(queue[i]){index=i;load(queue[i]);resume();save(true);}},
  toggleShuffle(){shuffle=!shuffle;save();changed();toast(shuffle?'Shuffle on':'Shuffle off');},
  toggleRepeat(){repeat={off:'all',all:'one',one:'off'}[repeat];save();changed();toast('Repeat: '+repeat);},
- setSpeed(v){const n=Number(v);if([0.75,1,1.25,1.5,2].includes(n)){audio.playbackRate=n;writeStore('hfm_speed',n);changed();}},
  setSleep(minutes){clearTimeout(sleepTimer);sleepDeadline=minutes?Date.now()+minutes*60000:0;if(minutes)sleepTimer=setTimeout(()=>{audio.pause();sleepDeadline=0;changed();toast('Sleep timer finished. Rest well.');},minutes*60000);changed();},
  seek(seconds){if(Number.isFinite(audio.duration))audio.currentTime=clamp(seconds,0,audio.duration);},
  mute(){audio.muted=!audio.muted;changed();},

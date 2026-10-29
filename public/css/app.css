@@ -25,3 +25,24 @@ body.auth-locked .auth-wrap{width:100%}
 [hidden]{display:none!important}
 @media(max-width:359px){.surah-table .surah-row{grid-template-columns:29px minmax(0,1fr) 64px;gap:8px}.surah-table .surah-actions{grid-column:2/-1;justify-content:flex-end}.surah-table .surah-name{min-width:0}.surah-table .surah-meaning{overflow-wrap:anywhere}.page-intro h1{font-size:25px}.page-intro>.arabic{font-size:23px}.dialog-player-controls{gap:3px}.dialog-player-controls .icon-button{width:32px}.dialog-player-controls .button{min-width:78px;padding-inline:10px}}
 @media(max-width:700px){body.auth-locked #main{padding:18px 14px}.auth-form{padding:28px 20px}.auth-wrap{border-radius:10px}}
+
+/* Keep panels scrollable without the wide native rails and arrow buttons. */
+:is(.sidebar,.playlist-nav,.queue-panel,dialog){scrollbar-width:thin;scrollbar-color:#668c76 transparent}
+@supports selector(::-webkit-scrollbar){
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog){scrollbar-width:auto;scrollbar-color:auto}
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar{width:6px;height:6px}
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-track{background:transparent}
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-thumb{background:#668c76;border-radius:20px;min-height:32px}
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-thumb:hover{background:#8ac5a0}
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-button{display:none;width:0;height:0}
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-corner{background:transparent}
+}
+@media(forced-colors:active){
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog){scrollbar-width:auto;scrollbar-color:auto}
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar,
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-track,
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-thumb,
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-thumb:hover,
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-button,
+ :is(.sidebar,.playlist-nav,.queue-panel,dialog)::-webkit-scrollbar-corner{all:revert}
+}
