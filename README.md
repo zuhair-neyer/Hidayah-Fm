@@ -67,7 +67,7 @@ A localhost reset link works only on the computer running the same preview port.
 - Likes, playlists, history, completion counts, saved playback and Friday/daily recommendations.
 - Prayer times for the selected city/country and calculation method, fetched directly from AlAdhan.
 - Responsive layout, keyboard skip link and accessible form/control labels.
-- About credit: **Created by Zuhair Mumtaz**.
+- About the Developer section introducing Zuhair Mumtaz and the purpose of Hidayah FM.
 
 The devotional catalogue contains **60 Nasheeds and 60 Naats**: 118 direct YouTube sources and two labelled legacy search fallbacks. All 108 additions had matching source title/artist metadata verified. Source provenance remains in `server/CATALOGUE-SOURCES.md` and `server/catalogue.json`. YouTube sources use the existing source player and do not enter the direct-audio queue unless a permitted recording is attached. Availability, regional restrictions and source permissions remain with the provider. Published arrangements vary; only recordings explicitly labelled Vocals Only/Acapella are presented that way.
 

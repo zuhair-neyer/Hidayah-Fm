@@ -20,9 +20,9 @@ test('sign-in is mandatory for application screens and private services',async({
  for(const endpoint of ['surahs','tracks','reciters','home','playlists','likes','history','auth/me'])expect((await service(page,'/'+endpoint)).status).toBe(401);
  await page.screenshot({path:path.join(evidence,'login-'+info.project.name+'.png')});expect(errors).toEqual([]);
 });
-test('signup validation, privacy link, login gate and About credit',async({page})=>{
+test('signup validation, privacy link, login gate and About developer section',async({page})=>{
  await page.goto('/#/signup');await page.getByLabel('Your name',{exact:true}).fill('QA User');await page.getByLabel('Email address',{exact:true}).fill('invalid@example.test');await page.locator('[name=password]').fill(password);await page.locator('[name=confirm]').fill(password+'x');await page.getByRole('checkbox').check();await page.getByRole('button',{name:'Create account',exact:true}).click();await expect(page.locator('.form-error')).toContainText('Passwords do not match');
- await signup(page);await go(page,'#/about');await expect(page.locator('#main')).toContainText('Created by Zuhair Mumtaz');await page.getByText('Skip to content',{exact:true}).focus();await page.keyboard.press('Enter');await expect(page.locator('#main')).toBeFocused();await expect(page).toHaveURL(/#\/about$/);
+ await signup(page);await go(page,'#/about');await expect(page.getByRole('heading',{name:'About the Developer',exact:true})).toBeVisible();await page.getByText('Skip to content',{exact:true}).focus();await page.keyboard.press('Enter');await expect(page.locator('#main')).toBeFocused();await expect(page).toHaveURL(/#\/about$/);
 });
 test('filters, search, reader and signed-in translation persistence',async({page})=>{
  await signup(page);await go(page,'#/quran');await expect(page.locator('.surah-row')).toHaveCount(114);await page.getByLabel('Filter surahs').fill('Kahf');await expect(page.locator('.surah-title')).toHaveText('Al-Kahf');await page.getByLabel('Filter surahs').fill('');await page.getByRole('button',{name:'Madani',exact:true}).click();expect(await page.locator('.surah-row').count()).toBeGreaterThan(10);await page.getByRole('button',{name:'Grid view',exact:true}).click();await expect(page.locator('.surah-grid')).toBeVisible();
